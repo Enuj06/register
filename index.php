@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 <html lang="en">
 
@@ -47,7 +46,7 @@
         }
     </style>
 </head>
-
+<?php
 <body>
 
     <div class="container">
@@ -110,4 +109,5 @@
         }
     </script>
 </body>
+    ?>
 </html>
