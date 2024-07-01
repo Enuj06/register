@@ -46,6 +46,7 @@
         }
     </style>
 </head>
+    <?php
 <body>
 
     <div class="container">
@@ -108,4 +109,5 @@
         }
     </script>
 </body>
+    ?>
 </html>
